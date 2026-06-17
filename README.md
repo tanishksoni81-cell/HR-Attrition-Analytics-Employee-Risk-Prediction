@@ -87,34 +87,5 @@ XGBoost
 Matplotlib
 Seaborn
 Power BI / Looker Studio
-Repository Structure
-HR-Attrition-Analytics/
-
-├── data/
-│   ├── raw/
-│   └── processed/
-│
-├── notebooks/
-│   ├── 01_EDA.ipynb
-│   ├── 02_Preprocessing.ipynb
-│   ├── 03_Modeling.ipynb
-│   ├── 04_Model_Explainability.ipynb
-│   └── 05_RiskScoring.ipynb
-│
-├── sql/
-│   ├── 01_data_quality.sql
-│   ├── 02_data_profiling.sql
-│   ├── 03_feature_engineering.sql
-│   ├── 04_attrition_analysis.sql
-│   ├── 05_advanced_analysis.sql
-│   └── 06_ml_dataset.sql
-│
-├── models/
-│   ├── attrition_model.pkl
-│   └── label_encoders.pkl
-│
-└── dashboard/
-    └── HR_Attrition_Dashboard
-Resume Bullet (1 Line)
 
 Built an end-to-end HR Attrition Analytics solution analyzing 1,470 employee records using SQL, Python, Machine Learning, and BI dashboards to identify key retention drivers and predict employee resignation risk.
